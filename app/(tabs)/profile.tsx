@@ -10,7 +10,8 @@ import {
   Award, 
   Settings, 
   Bell,
-  ChevronRight 
+  ChevronRight,
+  CheckCircle2
 } from 'lucide-react-native';
 
 export default function ProfileScreen() {
