@@ -1,1 +1,1 @@
-![Imagen Prototipo](https://github.com/Decta-Cubitus/English-learn/blob/8b4e49d6be76052c7a9abde3289a63bccd36711b/E-L1.png)
+![Imagen Prototipo](https://github.com/Decta-Cubitus/English-learn/blob/5795c44919475d1de8228ce7c114570aaf1225a6/eng-lrn.png)
