@@ -1,1 +1,1 @@
-![Mi genial imagen](mi-imagen-genial.png)
+![Mi genial imagen](E-L1.png)
